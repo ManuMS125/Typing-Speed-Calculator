@@ -37,3 +37,4 @@ time2=time()
 
 print('typing SpeeD (in word per sec) :',speed_time(time1,time2,testInput))
 print("Error : ",mistake(test1,testInput))
+
